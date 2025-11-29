@@ -276,7 +276,7 @@ export default function HistoryScreen({ navigation }) {
               <Text style={styles.startSessionText}>Start Your First Session</Text>
             </TouchableOpacity>
           </View>
-        ))}
+        )}
         
         <View style={styles.footerSpace} />
       </ScrollView>

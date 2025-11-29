@@ -354,7 +354,7 @@ const styles = StyleSheet.create({
   },
   premiumBanner: {
     margin: 20,
-    backgroundColor: 'linear-gradient(135deg, #8B5CF6 0%, #7C3AED 100%)',
+    backgroundColor: '#8B5CF6',
     borderRadius: 20,
     padding: 20,
   },
